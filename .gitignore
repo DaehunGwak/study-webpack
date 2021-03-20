@@ -105,3 +105,7 @@ dist
 
 # vscode
 .vscode
+
+# webpack build output
+dist
+build
